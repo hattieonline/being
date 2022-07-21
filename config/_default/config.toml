@@ -1,4 +1,4 @@
-baseurl = "https://hattieonline.github.io/book"
+baseurl = "https://startling-stroopwafel-1fb14f.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
