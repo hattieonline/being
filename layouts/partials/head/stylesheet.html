@@ -1,0 +1,27 @@
+{{ if eq (hugo.Environment) "development" -}}
+  {{ $options := (dict "targetPath" "main.css" "enableSourceMap" true "includePaths" (slice "node_modules")) -}}
+  {{ $css := resources.Get "scss/app.scss" | toCSS $options -}}
+  <link rel="stylesheet" href="{{ $css.Permalink | relURL }}">
+{{ else -}}
+  {{ $options := (dict "targetPath" "main.css" "outputStyle" "compressed" "includePaths" (slice "node_modules")) -}}
+  {{ $css := resources.Get "scss/app.scss" | toCSS $options | postCSS (dict "config" "config/postcss.config.js") -}}
+  {{ $secureCSS := $css | resources.Fingerprint "sha512" -}}
+  <link rel="stylesheet" href="{{ $secureCSS.Permalink }}" integrity="{{ $secureCSS.Data.Integrity }}" crossorigin="anonymous">
+{{ end -}}
+<noscript><style>img.lazyload { display: none; }</style></noscript>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,100&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Gulzar&display=swap" rel="stylesheet">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Mingzat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@0,500;1,500&family=Cormorant:ital,wght@0,400;0,500;1,500&display=swap');
+@font-face {
+  font-family: 'Hattie', cursive;
+  src: url('\assets\fonts\Hattie.woff') format('woff'), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+   url('\assets\fonts\Hattie.ttf') format('truetype'); /* Chrome 4+, Firefox 3.5, Opera 10+, Safari 3—5 */
+}  
+p, li { font-family: 'Mingzat', sans-serif ;font-weight: 400; font-size: 16px}
+</style>
