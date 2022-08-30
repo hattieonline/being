@@ -1,4 +1,4 @@
-baseurl = "https://startling-stroopwafel-1fb14f.netlify.app/"
+baseurl = "hattie.today/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
