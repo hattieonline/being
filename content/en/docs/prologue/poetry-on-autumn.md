@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "prologue"
-weight: 15
+weight: 5
 toc: true
 ---
 
@@ -37,11 +37,13 @@ maybe made up maybe made blurry by bibation maybe
 daydreams are clinical coping or maybe they&#39;re just dreams  
 as ever since we / i poeticized this whatever it is  
 i haven&#39;t slept before dawn in the early mourning   
-of your probable preconceptions, i am clockwork awake and  
-acquiescent to some guttural premonition that orchestrates my grief like  
-a machinated head bowed at entr&#39;acte, hanging low below the heart  
-as if swelling could still be reduced or induced and mostly as if  
-the exposition exposed enough to become a resolution with no resolve
+of your probable preconceptions, i am clockwork awake  
+and acquiescent to some guttural premonition  
+that orchestrates my grief like a machinated head  
+bowed at entr&#39;acte, hanging low below the heart  
+as if swelling could still be reduced or induced  
+and mostly as if the exposition exposed enough   
+to become a resolution with no resolve
 
 ## You and I, What Do We Do?
 morse code executed by electric existence   
@@ -62,7 +64,7 @@ love to talk about, love i wait for
 you like to impress and here i am  
 now what?
 
-## We Probably Said a Lot of Weird Things Then
+## We Probably Said a Lot of Weird Things 
 small white houses in  
 which we raise kids on indie   
 music and your whims
@@ -126,7 +128,6 @@ we just shouldn't— but i notice every morning when you didn't sleep well
 as if this can't be ever recreated: it's so bright, how could it possibly be described  
 i will never have to try to make sense again in my life  
 in a bathroom at a house party placebo-molly love-drunk  
-as if words and thrusts are all poetry scrawled in the right direction  
 pretending it was never about possession  
 with our initials are etched on the love trees / whatever our hometowns have  
 so tired but we can't *not*  
@@ -135,7 +136,6 @@ lazily
 in hourly intervals  on the brightest day of the year,  
 just to spite  
 roleplaying Irish exits  
-collapsing inward after the worst day this month for sales at The Business  
 on the holidays we forget we have off  
 like we know the same thing  
 we're partners in a card game about to play the hand of a lifetime  
@@ -145,38 +145,7 @@ and actually i know what to do too, but i'm acting a little nervous (and i am)
 
 
 
-## I'm Grieving, _Tremendously_.
-
-quietly we sit, heads bowed,  
-mournful in my most modest black dress  
-that my mom picked out losses ago  
-
-in unsaid prayer around   
-some mahogany grandmother table  
-next to the untouched shrines,   
-with no more words to be spoken;  
-
-the dictionary does not elaborate  
-on incomprehensible grief  
-nor should it-- this is just for us
-
-they took november from us, december too  
-gave it to the in-laws that talk business  
-and i miss when there were no empty seats  
-to force me to the kids table
-
-o it was in our names that  
-they'd laugh like hyenas or   
-sweep through the door   
-in some sort of dramatic uproar   
-
-yet now, quietly  
-we sit with none left standing   
-infinite attendees of our constant funeral  
-that is today disguised as thanksgiving dinner 
-
-
-## Governance Over the Girl
+## GOVERNANCE OVER THE GIRL
 
 MY COMEBACK MY  
 NEVER CUMMING  
@@ -211,7 +180,8 @@ I&#39;D LIKE TO INTRODUCE SOMEBODY
 TO MY FRIENDS &amp; DON&#39;T HAVE SEX  
 FAST ENOUGH &amp; HAVE SEX TOO  
 FAST &amp; HAVE SEX TOO LOUD &amp;  
-NOT HAVE SEX AND JUST LAUGH--  
+NOT HAVE SEX AND JUST LAUGH.
+
 I DECIDE I AM MY JUDGE &amp;  
 THEY CORRAL AROUND ME  
 AGAPE BEGGING TO BE  

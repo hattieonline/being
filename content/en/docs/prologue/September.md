@@ -21,12 +21,13 @@ _so imagine we&#39;re you-and-i-whispering to each other about_
 _something or other, maybe god, but at least devout luckiness_
 
 i&#39;d prefer not to care how i write my poetry  
-it&#39;s like i&#39;m talking myself into a in flow state immersive  
+it&#39;s like i&#39;m talking myself into a flow state immersive  
 o, pour from my pen / no my type /  
 is it because i type that i cannot muster  
 a poetic anything? or, conversely
 
-who am i to say that anything is poetic or not poetic because poetry is  
+who am i to say that anything is or is not poetic because poetry is  
+
 when i stand beneath a world that towers over me,  
 there is a feeling i&#39;ve never felt and at this point  
 i&#39;ve felt it enough to know that i can feel it again-- i&#39;ve never not.  
@@ -123,12 +124,12 @@ i did gorge (daintily) i&#39;m sorry, i secretly and wholly devoured:
 1.&nbsp;two different gas-station-esque snacks in loud bags past 11PM  
 &nbsp;&nbsp;&nbsp;_could anybody hear?_  
 2.&nbsp;my own words mostly cuz i proposed that you eat my shorts / me,  
-&nbsp;&nbsp;&nbsp; and all that blush for what? inspiration that hopefully carries me outta  
+&nbsp;&nbsp; and all that blush for what? inspiration that hopefully carries me outta  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_my fingers are still crossed_  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Emily is coming over tonight and_  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_don&#39;t forget Kate has her presentation tomorrow_  
-&nbsp;&nbsp;&nbsp;&nbsp; this place with its sudden mold and stalagmite half empties  
-&nbsp;&nbsp;&nbsp;&nbsp; which at least is now recognizable &amp; furthermore i understand the mechanics  
+&nbsp;&nbsp;&nbsp;this place with its sudden mold and stalagmite half empties  
+&nbsp;&nbsp;&nbsp;which at least is now recognizable &amp; furthermore i understand the mechanics  
 
 i considered the men and then you and then you again but what might be better  
 [after self-consideration] is to remind me more of my father please  

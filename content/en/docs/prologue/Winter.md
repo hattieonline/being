@@ -3,17 +3,17 @@ title: "Holidays, Grasping"
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
-lead: "Loss was looking at me and I invited him inside for lessons on anger & justification. We wrote, we remembered, we drank, we loved, we seethed, and at the end of it all, we did not come out unscathed."
+lead: "Loss came to my door and I invited him inside for lessons on anger & justification. We wrote, remembered, drank, loved, seethed, and at the end of it all, we did not come out unscathed."
 images: []
 menu:
   docs:
     parent: "prologue"
-weight: 90
+weight: 8
 toc: true
 ---
 ## Lies I Tell About Cancer
 Today, I lied about picking my mother up from chemo  
-but I wasn&#39;t lying about the chemo, my mom is dying,  
+but I wasn't lying about the chemo, my mom is dying,  
 and so I have the right to lie  
 (down in surrender, but please never let me)
 
@@ -22,7 +22,7 @@ My name is Hattie and I tell lies about cancer and I am afraid of driving becaus
 Lies about cancer that I tell:
 
 -&nbsp;I will be late because I am picking my mother up from chemo  
--&nbsp;Sometimes the best thing you can say is that you don&#39;t know what to say  
+-&nbsp;Sometimes the best thing you can say is that you don't know what to say  
 -&nbsp;I have found solace in the time that we still have left  
 -&nbsp;I don't think about how long that time will last  
 -&nbsp;I am not afraid
@@ -113,8 +113,8 @@ i want to love you through growth spurt hurt
 like you love me even when my hurt hurts you,  
 [because, i am still growing]
 
-it&#39;s just that you&#39;ve never stopped raising me  
-and it&#39;s making me go blind—  
+it's just that you've never stopped raising me  
+and it's making me go blind—  
 i see bright reds and muted pinks and sunshine yellows,  
 i feel your solar warmth, your blinding brightness  
 that burns my skin until it peels and i am left  
@@ -132,8 +132,8 @@ that soon i will burn again.
 do you remember when we went to the emergency room because a swimming pool reflection of the sun gave my hands burns that looked like tree trunks? it was so uncanny.  
 
 they gave me valium and i became so flippant  
-that you pleaded me to never do drugs, which i did &amp; do,  
-which is okay because you did &amp; do more than me,  
+that you pleaded me to never do drugs, which i did & do  
+which is okay because you did & do more than me,  
 which reminds me that i am a seed you planted, worked for, loved absolutely.
 
 I am rooted in you and while I am not afraid of sneaky sunburns or opioid addiction,  
@@ -141,35 +141,18 @@ _I am afraid of my flippancy, and I am afraid of how it hurts you._
 
 I want to outgrow my growing pains, but I cannot face my final fear.
 
-context for you: it&#39;s all because i told her that i couldn&#39;t sleep in my bed so i&#39;ve slept on my couch for the past week and as if she had not spent enough on my education and bad credit / attitude, to her own deficit, she came into my home and gave us (my home and i) love like she&#39;d never given, life like it was all she had, and maybe i didn&#39;t really realize how badly i need my mother&#39;s touch. i am surrounded by so much softness now that i think i will never wake up; i think i may decidedly keep dreaming this exact moment until i am jolted awake with no memory that it happened, either because you forget dreams upon waking or because i will be so waiting room purple that the memory could shatter me to bits. i hope it is because you forget dreams upon waking or because there are new dreams that demand a bit more space [and rightfully so] and given the aforementioned, is poetry a dream journal? in these matrifocal poems, you [not reader, but maker] create me and want me to be something you can revel in, subsequently i lock myself in my sometimes metaphorical room [also done by you], and i lie, and i lay in made-up agony, for a decade, then i turn today years old and you&#39;ve made my heart into an open wound in the most torturously and naturally beautiful way i think anybody could, and with my spilled guts i create something that i can revel in, that i wish i could give back to you. birth and pain and art and death. it is the truest life cycle, but it is not true to us, even though you would be so proud to hear that I haven&#39;t written about a man&#39;s love in months, but I can&#39;t tell you that, because now my poetry is full of your name, and endings, and feeling small and afraid. and then maybe you&#39;d be proud all over again, because I&#39;ve pushed through my need for distraction from limitations to get to the core of it, to get to the really gritty part where i start to get pity that i don&#39;t want, people telling me they don&#39;t know what to say and in return i will scream on our rooftop. i will not lie down. i will not let it change my shape.
+context for you: it's all because i told her that i couldn't sleep in my bed so i've slept on my couch for the past week and as if she had not spent enough on my education and bad credit / attitude, to her own deficit, she came into my home and gave us (my home and i) love like she'd never given, life like it was all she had, and maybe i didn't really realize how badly i need my mother's touch. i am surrounded by so much softness now that i think i will never wake up; i think i may decidedly keep dreaming this exact moment until i am jolted awake with no memory that it happened, either because you forget dreams upon waking or because i will be so waiting room purple that the memory could shatter me to bits. i hope it is because you forget dreams upon waking or because there are new dreams that demand a bit more space [and rightfully so] and given the aforementioned, is poetry a dream journal? in these matrifocal poems, you [not reader, but maker] create me and want me to be something you can revel in, subsequently i lock myself in my sometimes metaphorical room [also done by you], and i lie, and i lay in made-up agony, for a decade, then i turn today years old and you've made my heart into an open wound in the most torturously and naturally beautiful way i think anybody could, and with my spilled guts i create something that i can revel in, that i wish i could give back to you. birth and pain and art and death. it is the truest life cycle, but it is not true to us, even though you would be so proud to hear that I haven't written about a man's love in months, but I can't tell you that, because now my poetry is full of your name, and endings, and feeling small and afraid. and then maybe you'd be proud all over again, because I've pushed through my need for distraction from limitations to get to the core of it, to get to the really gritty part where i start to get pity that i don't want, people telling me they don't know what to say and in return i will scream on our rooftop. i will not lie down. i will not let it change my shape.
 
-_won&#39;t it feel so ridiculous when none of this ever comes true,  
+_won't it feel so ridiculous when none of this ever comes true,  
 to have fixated my renaissance upon loss?_
 
-## Open Letter on Corporate Grief and Self-Commodification
-
-given that we already exist  
-under their microscope,  
-who are we to say  
-that they cannot prod?  
-a miniscule  
-needle-pointed  
-scream  
-would never reach  
-turned up noses &amp; ears,  
-they sculpted us like that.  
-
-newborn in our malformed memory,  
-in our object impermanence, in the way that  
-experiential existence and exigent excitement  
-look the same to us,  
-again
+## Open Letter on Corporate Grief
 
 infantile our dependence on foreign parental entities  
 that forge motherhood and the totality of its governance,  
 that forgo motherhood and the essential provision of self-concept—  
 they tell us unlearned children could never know best,  
-but wouldn&#39;t i need to ache tremendously and pick it all up  
+but wouldn't i need to ache tremendously and pick it all up  
 in order to know what I cannot carry,  
 in order to know how to hold
 
@@ -185,7 +168,7 @@ if it may be reduced to a row,
 if we may flux in or out of normalization  
 if i do not earn my own trust, and neither do you,  
 if intuition is better left programmed,  
-will they know how many hours i&#39;ve logged,  
+will they know how many hours i've logged,  
 miscalculating my own dimensionality  
 with the wrong measures?
 
@@ -194,7 +177,7 @@ trying to understand the distance between
 sought metrics and her best day  
 and subsequently she will become blind  
 to undertones and parallel lines due to  
-the sleepless witness borne to others&#39; attainment  
+the sleepless witness borne to others' attainment  
 of the key performance indicators set by corporate,  
 such as:  
 publicized CEO morning routines,  
@@ -206,21 +189,21 @@ trust fund manifestation,
 people in glass homes  
 devoid of any artifact beyond ease  
 
-_this is what we&#39;re running for?_
+_this is what we're running for?_
 
 is it actually self-actualization if it was never really yours?  
-if I&#39;ve never experienced it, did i still see it with my own eyes?  
-if i didn&#39;t see it with my own eyes, is it still part of my reality?  
+if I've never experienced it, did i still see it with my own eyes?  
+if i didn't see it with my own eyes, is it still part of my reality?  
 do i get to make that choice?
 
-i almost didn&#39;t remember  
+i almost didn't remember  
 that this is all i will ever be;  
 self-definition through my lacking and my gaps  
 is a perilous insult to the woman   
 who writes this poem,  
 to the day she arrived screaming,  
 to the days / women that live in between  
-and i almost didn&#39;t remember them because right now,  
+and i almost didn't remember them because right now,  
 i am struck dead at the hand of videos of hands, things  
 being put away, people doing tasks / living lives that  
 i do not recognize, claiming  
@@ -250,20 +233,20 @@ will our dreams collide?
  we find it within ourselves, by repeating a rendition of an adult scream  
  in our own voice, with those childlike promises of self-betterment  
  (that really just ask: am i still a person worth loving?)  
-   
-
-    tip: answer "YES, YES, YES" your  
- whole way home, and cry:  
- for the joy of being so wholly loved,  
- for your homecoming  
+ 
+      &nbsp;&nbsp;&nbsp; tip:   
+      &nbsp;&nbsp;&nbsp; answer "YES, YES, YES" your  
+       &nbsp;&nbsp;&nbsp; whole way home, and cry:  
+       &nbsp;&nbsp;&nbsp; for the joy of being so wholly loved,  
+       &nbsp;&nbsp;&nbsp; for your homecoming  
    
    your chest  
 must  
 be cavernous,  
     
     it must be  
-more than  
-numb.  
+more   
+than numb.  
     
     _you shouldn’t want a drink._  
       
@@ -331,7 +314,7 @@ scream
    your art must terrify you, or else  
 you do not create for expression,  
 you retell stories with endings that  
-they have memorized)  
+they have memorized  
    
    they should look at your art, point to your god, and  
 only believe one revelation to be true. they should  
@@ -340,16 +323,16 @@ be rendered missionaries:
 has there ever been a deity to live inside of eye sockets? 
 
 
- ## Untitled Unnamed Hope
+ ## presence as a preferred indifferent
 i am supposed to write but  
 i have nothing in me  
-this time- it isn’t you, any of you,   
+it isn’t you, any of you,   
 except for the instance:  
 i imagine your form outside of my home,  
-and i am no longer afraid.
+and i no longer feel so alone.
 
 i understand what it is like when this  
-heart is in only my hands— i’ve written it to shreds,  
+heart is in only my hands — i’ve written it to shreds,  
 so much so that there are no remaining words, there is just  
 my great love that no longer feels so parasitic.  
 do i want for somebody to make a home of me?
@@ -362,47 +345,49 @@ reasons i don’t understand, and
 you don’t speak spanish,   
 y no quiero hablar sobre eso.
 
+## childsplay
+
 the game must be that: i reveal more about me,  
-bits nobody really actually wants to know,  
-and i wait like some kind of hungry cat for you to  
-ask  
+the bits nobody really actually wants to know, and  
+i wait like some kind of hungry cat for you to  
+*ask*  
+
 but the game is slated to be a losing game, and  
 i don’t tell you that, and  
 i do that on purpose, and  
-i pretend that i prefer it that way—   
-please,  
-don’t ask. take the warnings and   
+i pretend i prefer it that way.   
+please, take the warnings and   
 go
 
-the next level of the game is: will i feel  
-grotesque and will you make me feel  
-dramatic just like my mom does? and will  
-you think,   
-“of course you have issues with  
+the next level of the game is:  
+will i feel grotesque and  
+will you make me feel dramatic  
+just like my mom does?  
+and will you think   
+*of course you have issues with  
 your mother, and of course  
 you think your body has been violated  
 because of course,  
 there must be a reason that your  
 hot young tight body  
-cannot be touched”  
+cannot be touched* 
+
 but back to me,   
 and you would like to know,  
 could you still fuck me?   
+
 i lose the game,   
 i return to the previous page,  
 you choose a different option  
-end scene
 
-but then what if   
-the space between us is negative   
-and one of my legs, two aorta, a hand is  
-at fusion with your respective appendages.   
+but then    
+what if the space between us is negative   
+and one of my legs, two aorta, a hand  
+is at fusion with your respective appendages?   
 what then?  
+
 what if you stare at me the wrong way?  
-what if i remember the intuition that i lost  
-from playing too many of my cards,   
-what if you sit in front of me  
-and, what if i don’t recognize you?  
+what if you sit in front of me and i don’t recognize you?  
 even worse: what if you are exactly what i imagined?  
 even better: what if you are exactly what i imagined?
 
@@ -431,7 +416,8 @@ i remember i’ve memorized the song.
 i hide inside of cracks in the voice  
 until it collapses under   
 an atmospheric pressure.  
-then the lyrics become message drafts  
+
+the lyrics become message drafts  
 they’re texts that are still at work  
 they’re spreadsheet analyses of orbit  
 they’re lists of my worst qualities  
@@ -444,5 +430,6 @@ we erupt as hymen, stamen
 we play hooky inside the folds   
 of velveteen petal curtains,   
 as if we are still seeds.   
+
 i say that i don’t want to get caught defying mother nature.   
 you tell me to jump.
